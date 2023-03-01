@@ -1,0 +1,8 @@
+name = "http-echo"
+main = "./src/index.ts"
+compatibility_date = "2022-05-03"
+
+# NativeScript account
+account_id = "c40afaf71604c0cb06ae42e088152983"
+workers_dev = true
+usage_model = "bundled"
